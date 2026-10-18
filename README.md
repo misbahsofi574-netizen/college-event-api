@@ -233,7 +233,7 @@ the response.
     provide a web interface.
 
 ## Repository
-`GitHub: https://github.com/misbahsofi574-netizen/college-event-api`
+GitHub: https://github.com/misbahsofi574-netizen/college-event-api
 
 
 

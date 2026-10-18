@@ -237,4 +237,4 @@ the response.
 
 
 
-GitHub: https://github.com/misbahsofi574-netizen/college-event-api
+
